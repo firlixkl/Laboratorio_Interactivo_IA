@@ -2,8 +2,6 @@
 
 Una página web interactiva para entender cómo funciona el aprendizaje automático **moviendo los controles en lugar de leer fórmulas**. Pensada para quien trabaja con datos, seguridad o comunicación y necesita criterio, no solo definiciones.
 
-**▶ Demo:** `https://TU-USUARIO.github.io/laboratorio-ia/`
-
 > Un solo archivo HTML. Sin instalación, sin servidor, sin cuentas, sin rastreo. Todos los datos de las demos son simulados.
 
 ---
@@ -12,7 +10,7 @@ Una página web interactiva para entender cómo funciona el aprendizaje automát
 
 Casi todo el material sobre IA se queda en dos extremos: o es una charla conceptual que no se puede comprobar, o es código que exige montar un entorno antes de aprender nada. Este laboratorio busca un punto intermedio: cada idea tiene una demo pequeña que puedes romper y observar. Si entiendes *por qué* un modelo falla, sabes cuándo no fiarte de él.
 
-Es un proyecto de **[Bermuda Comunica](https://github.com/TU-USUARIO)** para explicar de forma práctica la teoría de la integridad digital: que los sistemas que toman decisiones con datos sean comprensibles, verificables y honestos sobre sus límites.
+Es un proyecto para explicar de forma práctica la teoría de la integridad digital: que los sistemas que toman decisiones con datos sean comprensibles, verificables y honestos sobre sus límites.
 
 ## Qué contiene
 
@@ -75,8 +73,8 @@ Las sugerencias son bienvenidas: abre un *issue* si encuentras un error conceptu
 
 ## Licencia
 
-[MIT](LICENSE) © 2026 Bermuda Comunica. Puedes usarlo, adaptarlo y compartirlo citando la autoría.
+[MIT](LICENSE) © 2026. Puedes usarlo, adaptarlo y compartirlo citando la autoría.
 
 ## Contacto
 
-Bermuda Comunica · [LinkedIn](https://www.linkedin.com/) · TU-EMAIL
+[LinkedIn](https://www.linkedin.com/)

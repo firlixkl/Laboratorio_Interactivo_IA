@@ -12,6 +12,12 @@ Casi todo el material sobre IA se queda en dos extremos: o es una charla concept
 
 Es un proyecto para explicar de forma práctica la teoría de la integridad digital: que los sistemas que toman decisiones con datos sean comprensibles, verificables y honestos sobre sus límites.
 
+## Previsualización
+
+<img width="1010" height="1824" alt="image" src="https://github.com/user-attachments/assets/c9de0298-cfc5-4a87-9c0a-f0fc96871f67" />
+
+
+
 ## Qué contiene
 
 | Pestaña | Idea que se toca |
